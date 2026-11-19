@@ -66,3 +66,11 @@ Completed
 
 ## Disclaimer
 This project uses synthetic data generated for educational and portfolio purposes. It does not contain real company or customer information.
+
+## Dashboard Previews
+
+### Excel Dashboard
+![Excel Dashboard](screenshots/Excel_Dashboard.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/PowerBI_Dashboard.png)
