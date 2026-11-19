@@ -1,0 +1,5 @@
+Priority,Total_Resolved,SLA_Breaches,Breach_Rate_Percent
+Critical,207,100,48.31
+High,535,229,42.8
+Low,490,226,46.12
+Medium,852,377,44.25
